@@ -1,0 +1,19 @@
+﻿.ListaUpload 
+{
+    width: 300px;
+    background-color: #F8F9FA;   
+}
+
+.Remover 
+{
+    padding-top: 2px;
+    padding-right: 5px;
+    float: right;
+}
+
+.Arquivo 
+{
+    width: 290px;
+    padding-left: 5px;
+}
+
